@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 330ad88fe26fa9640b85846e994e0d05
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _lazerPrefab: {fileID: 3819080403504112139, guid: b4eaa69db469ee44dae581a29b265ef9,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
